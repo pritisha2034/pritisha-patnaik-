@@ -1,5 +1,4 @@
 # run_analysis.r
-#getting and cleaning data
 Getting and Cleaning Data - Course Project
 ==========================================
 
